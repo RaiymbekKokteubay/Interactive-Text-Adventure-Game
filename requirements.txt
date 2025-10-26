@@ -1,0 +1,6 @@
+# Interactive Text Adventure Game - Requirements
+# This game uses only Python standard library
+# Python 3.6 or higher is required
+
+# No external dependencies required
+
